@@ -1,0 +1,19 @@
+{
+  "name": "buzz",
+  "version": "1.0.0",
+  "description": "Lorem ipsum",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eric Fledderman",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "discord.js": "^11.1.0",
+    "enquirer": "^1.0.2",
+    "json-localstorage": "^2.0.0",
+    "node-opus": "^0.2.6",
+    "prompt-confirm": "^1.2.0"
+  }
+}
